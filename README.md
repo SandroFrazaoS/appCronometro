@@ -38,6 +38,6 @@
 
 ![2][tela3]
 
-[tela1]: T1.PNG
-[tela2]: T2.PNG
-[tela3]: T3.PNG
+[tela1]: T1.png
+[tela2]: T2.png
+[tela3]: T3.png
